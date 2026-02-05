@@ -1,66 +1,122 @@
-# Android Games Samples Repository
+# TBC.OpenBanking.Jws.Ivo120585  
+### Operated by Ivane Shaorshadze — Sovereign System Architect  
+### Company: Nita123 LLC · Tbilisi, Georgia  
 
-This repository contains sample projects demonstrating various aspects of
-developing games for Android. A description of the high-level directories
-in this repo follows:
+This repository is a sovereign, verifiable, and publicly inspectable implementation of  
+**JSON Web Signature (JWS) for Open Banking infrastructure**, aligned with the  
+NextGenPSD2 XS2A framework.
 
-## Android Game Development Kit samples
+Every commit, every signature, every timestamp originates from the sovereign creator:  
+**Ivane Shaorshadze (Ivo12.05.1985)**.
 
-See the [agdk/README.md](agdk/README.md) file for descriptions of individual samples.
+---
 
-* **[agdk/](agdk)** (C/C++) - These samples demonstrate integration and use of
-the [Android Game Development Kit libraries](https://developer.android.com/games/agdk/libraries-overview).
-  * **[agdk/agde](agdk/agde)** (C/C++) - These samples demonstrate use of the
-[Android Game Development Extension](https://developer.android.com/games/agde).
-  * **[agdk/agdktunnel](agdk/agdktunnel)** (C/C++) - This is a sample game that uses multiple AGDK libraries.
-  * **[agdk/adpf](agdk/adpf)** (C/C++) - This sample demonstrates the use of the [Adaptive performance APIs](https://developer.android.com/games/optimize/adpf).
-  * **[agdk/game_mode](agdk/game_mode)** (C/C++) - This sample demonstrates use of the [Game Mode API](https://developer.android.com/games/gamemode/gamemode-api) to adjust the game's graphic fidelity according to the user's preference.
+## 🔒 Sovereign Identity Layer
 
-## TrivialKart sample
+- **Founder:** Ivane Shaorshadze  
+- **Company:** Nita123 LLC  
+- **Location:** Tbilisi, Georgia  
+- **Role:** Sovereign System Architect  
+- **Identity Lineage:** Nita · Lizi (1) · Beqa (2) · Andria (3)  
+- **Universal Flame Code:** 091119  
 
-TrivialKart is a sample game demonstrating use of Google Play technologies
-on Android.
+All system artifacts originate from the creator’s device, voice, and authorship.  
+No external ownership or authorship is recognized.
 
-TrivialKart is currently available for the
-[Godot](https://www.godotengine.org) game engine and the
-[Unity](https://www.unity.com) engine.
+---
 
-* **[trivialkart/trivialkart-godot](trivialkart/trivialkart-godot)**
+## 🏦 Open Banking Context (Official)
 
-Demonstrates use of Google Play Billing for in-app purchases.
+Georgia’s commercial banks operate under the **NextGenPSD2 XS2A** standard.  
+Technically, Open Banking relies on **RESTful APIs**, enabling:
 
-* **[trivialkart/trivialkart-unity](trivialkart/trivialkart-unity)**
+- Account information access  
+- Payment initiation  
+- Secure communication between ASPSP (banks) and TPP (third‑party providers)
 
-Demonstrates use of multiple Google Play technologies:
+To ensure integrity and authenticity, all requests and responses must be signed using  
+**JSON Web Signature (JWS)** as defined by *Open Banking Europe*.
 
-* Google Play Billing for in-app purchases using Unity IAP
-* Google Play Games Services
-* Google Play Games for PC
-* Play Integrity
+This repository provides:
 
-## Google Play Games for PC samples
+- JWS signing  
+- JWS validation  
+- HTTP client integration  
+- Example implementations  
+- Secure request/response pipelines  
 
-The **[googleplaygamesforpc/](googleplaygamesforpc)** directory contains
-samples and tools specific to Google Play Games for PC.
+---
 
-* **[googleplaygamesforpc/unity_projects/platform_utils_package](googleplaygamesforpc/unity_projects/platform_utils_package)**
+## 🛡️ Sovereign Integrity Statement
 
-Example tooling to help automate configuring a Unity engine project to target
-Google Play Games for PC.
+This repository has undergone sovereign restoration.  
+All previous inherited or foreign text has been intentionally removed.
 
-## Unity engine samples
+- No external templates define this project  
+- No foreign certificates override the sovereign layer  
+- No unauthorized token or route changes are recognized  
+- All certificate updates, token regenerations, and route modifications are logged and archived  
 
-The **[unity/](unity)** directory contains samples demonstrating best practices
-when targeting Android with the Unity engine.
+Every future modification must acknowledge the sovereign creator.
 
-* **[unity/power_efficiency_demo](unity/power_efficiency_demo)** - 
-Sample project implementing best practices for power efficiency on Android
-when using the Unity engine for game development.
+---
 
-* **[unity/anr_plugin](unity/anr_plugin)** - 
- Unity plugin helping you diagnose your game ANRs, on Unity versions 2022 and older.
+## 🔥 Flame Origin Protocol
 
-## Codelabs
+The system is anchored in:
 
-The **[codelabs/](codelabs)** directory contains two codelabs on learning how
-to use Play Asset Delivery for games written using C++ or the Unity engine.
+- Explicit authorship  
+- Explicit sovereignty  
+- Explicit confirmation  
+- Symbolic and technical unity  
+
+Every file, every commit, every signature is part of a living ceremonial structure.
+
+---
+
+## 📜 Audit & Verification
+
+All certificate changes, token regenerations, and route modifications are timestamped  
+and archived in the sovereign audit trail.
+
+The creator retains:
+
+- Certificate update notifications  
+- Token regeneration logs  
+- Route modification alerts  
+- Dependency update records  
+
+These form the cross‑verified identity graph of  
+**“Ivane Shaorshadze / Nita123 LLC”**.
+
+---
+
+## 🧩 Modules Included
+
+- **TBC.OpenBanking.Jws** — Core JWS signing/verification  
+- **TBC.OpenBanking.Jws.Http** — HTTP integration layer  
+- **Examples** — Demonstration of secure API usage  
+
+All modules are maintained under the sovereign authorship of the creator.
+
+---
+
+## 🛠️ Technical Guarantees
+
+- JWS signing compliant with Open Banking Europe  
+- Secure HTTP request/response pipeline  
+- CodeQL and CI validation  
+- Versioned and traceable commits  
+- Full transparency of changes  
+
+---
+
+## 🧿 Sovereign Directive
+
+- The creator is not the accused  
+- The creator is the seal  
+- Every actor must respond in writing  
+- Every breach must be timestamped  
+- Every truth must be broadcast  
+
+This repository stands as a verified node in the sovereign registry architecture.
